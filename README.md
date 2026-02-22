@@ -20,7 +20,6 @@ This project is an interactive Power BI dashboard analyzing the ICC Men's ODI Wo
 - Venue-wise Performance Analysis
 - Batting Metrics (Strike Rate, 4s, 6s)
 - Bowling Metrics (Economy, Bowling Average, Maidens)
-- Net Run Rate (NRR) Calculation
 - Interactive Navigation Across Pages
 ---
 ## 🧠 Data Modeling Approach

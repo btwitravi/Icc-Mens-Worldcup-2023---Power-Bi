@@ -36,7 +36,7 @@ A star schema data model was implemented:
 ![Dashboard](OverViews.png)
 
 ### Batting Summary
-![Dashboard](BattingSummary.png)
+![Dashboard](Batting_Summary.png)
 
 ### Bowling Summary
 ![Dashboard](BowlingSummary.png)

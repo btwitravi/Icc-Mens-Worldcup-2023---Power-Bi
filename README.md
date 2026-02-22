@@ -31,16 +31,16 @@ A star schema data model was implemented:
 ## 📷 Dashboard Preview
 ### Home 
 ![Dashboard](Home.png)
-
+---
 ### OverViews
 ![Dashboard](OverViews.png)
-
+---
 ### Batting Summary
 ![Dashboard](BattingSummary.png)
-
+---
 ### Bowling Summary
 ![Dashboard](BowlingSummary.png)
-
+---
 ## 🚀 How to Use
 1. Download the ODI.pbix file
 2. Open in Power BI Desktop
